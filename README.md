@@ -1,6 +1,6 @@
 # NotepadApp-kotlin
 
-Tugas 1 : Lab Motion - 15 Februari 2023
+Tugas 1 : Lab Motion - 8 Februari 2023
 Persyaratan Tugas → Dan yang akhirnya dibuat
 1. ROOM/Firebase ✅ → Menggunakan ROOM
 2. Create Read ✅ → CRUD(Dapat Menambahkan notes baru(judul+isi+tanggal), Melihat 
